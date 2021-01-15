@@ -1,0 +1,6 @@
+com\jxs\user\entity\User.class
+com\jxs\user\controller\UserController.class
+com\jxs\user\service\user\impl\UserServiceImpl.class
+com\jxs\user\service\user\UserService.class
+com\jxs\user\UserApplication.class
+com\jxs\user\mapper\UserMapper.class
