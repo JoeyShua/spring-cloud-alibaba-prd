@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jxs-parent/jxs-common/jxs-common.iml" filepath="$PROJECT_DIR$/jxs-parent/jxs-common/jxs-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jxs-parent/jxs-gateway/jxs-gateway.iml" filepath="$PROJECT_DIR$/jxs-parent/jxs-gateway/jxs-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jxs-parent/jxs-parent.iml" filepath="$PROJECT_DIR$/jxs-parent/jxs-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jxs-parent/jxs-user/jxs-user.iml" filepath="$PROJECT_DIR$/jxs-parent/jxs-user/jxs-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-alibaba-prd.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-alibaba-prd.iml" />
+    </modules>
+  </component>
+</project>

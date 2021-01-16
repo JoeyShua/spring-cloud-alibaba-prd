@@ -132,6 +132,7 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<version>${boot.version}</version>
 				<configuration>
 					<fork>true</fork>
 					<addResources>true</addResources>

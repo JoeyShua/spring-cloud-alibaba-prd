@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jxs-gateway:war exploded">
+    <output-path>$PROJECT_DIR$/jxs-parent/jxs-gateway/target/jxs-gateway</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>jxs-gateway</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jxs-gateway" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/jxs-parent/jxs-gateway/target/jxs-gateway/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="jxs-gateway/web/Web" />
+    </root>
+  </artifact>
+</component>
