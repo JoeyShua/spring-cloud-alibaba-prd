@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c986b820-a821-4fdb-ab27-5953da0be02e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/spring-cloud-alibaba-prd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/CommonApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/CommonApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/constant/CommonConstant$baseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/constant/CommonConstant$baseEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/constant/CommonConstant.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/constant/CommonConstant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/entity/BaseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/entity/BaseEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/entity/IdEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/entity/IdEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/vo/ControllerThreadLocal.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/vo/ControllerThreadLocal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/vo/Res.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/vo/Res.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/vo/ResultCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/vo/ResultCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/jxs-common-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/jxs-common-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/surefire-reports/TEST-org.jxs.common.CommonApplicationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/surefire-reports/TEST-org.jxs.common.CommonApplicationTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/surefire-reports/org.jxs.common.CommonApplicationTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/surefire-reports/org.jxs.common.CommonApplicationTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/test-classes/org/jxs/common/CommonApplicationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/test-classes/org/jxs/common/CommonApplicationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-gateway/target/jxs-gateway.war" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-gateway/target/jxs-gateway.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-gateway/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-gateway/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/UserApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/UserApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/config/BaseMetaObjectHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/config/BaseMetaObjectHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/config/ControllerExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/config/ControllerExceptionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/config/MybatisPlusConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/config/MybatisPlusConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/log/RequestLogAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/log/RequestLogAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/service/user/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/service/user/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/service/user/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/classes/com/jxs/user/service/user/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/jxs-user.war" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/jxs-user.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/jxs-user/WEB-INF/classes/com/jxs/user/UserApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/jxs-user/WEB-INF/classes/com/jxs/user/UserApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/jxs-user/WEB-INF/classes/com/jxs/user/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/jxs-user/WEB-INF/classes/com/jxs/user/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/jxs-user/WEB-INF/classes/com/jxs/user/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/jxs-user/WEB-INF/classes/com/jxs/user/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/jxs-user/WEB-INF/classes/com/jxs/user/service/user/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/jxs-user/WEB-INF/classes/com/jxs/user/service/user/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/jxs-user/WEB-INF/classes/com/jxs/user/service/user/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/jxs-user/WEB-INF/classes/com/jxs/user/service/user/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/jxs-user/WEB-INF/lib/jxs-common-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/jxs-user/WEB-INF/lib/jxs-common-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jxs-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="F:\maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n9RD62mPapxvT4N2nyAquLkIPc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jxs-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jxs.common.CommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jxs-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jxs.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c986b820-a821-4fdb-ab27-5953da0be02e" name="Default Changelist" comment="" />
+      <created>1610800202474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610800202474</updated>
+      <workItem from="1610800205005" duration="191000" />
+      <workItem from="1610800453584" duration="359000" />
+      <workItem from="1610800958134" duration="965000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

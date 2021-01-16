@@ -1,0 +1,7 @@
+
+# 忽略 eclipse
+
+# 忽略idea
+
+# 忽略target
+**/target/**
