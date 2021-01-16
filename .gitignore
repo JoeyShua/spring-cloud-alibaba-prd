@@ -1,7 +1,9 @@
 
 # 忽略 eclipse
-
+**/.classpath
 # 忽略idea
-
+*/.idea/**
+.idea/**
 # 忽略target
 **/target/**
+
