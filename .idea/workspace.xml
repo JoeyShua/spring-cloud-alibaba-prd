@@ -9,6 +9,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/spring-cloud-alibaba-prd.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/CommonApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/CommonApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/constant/CommonConstant$baseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/constant/CommonConstant$baseEntity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/constant/CommonConstant.class" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-common/target/classes/com/jxs/common/constant/CommonConstant.class" afterDir="false" />
@@ -48,7 +49,6 @@
       <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jxs-parent/jxs-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/jxs-user/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jxs-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jxs-parent/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +129,7 @@
       <updated>1610800202474</updated>
       <workItem from="1610800205005" duration="191000" />
       <workItem from="1610800453584" duration="359000" />
-      <workItem from="1610800958134" duration="965000" />
+      <workItem from="1610800958134" duration="1568000" />
     </task>
     <servers />
   </component>
