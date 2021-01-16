@@ -1,9 +1,11 @@
 
 # 忽略 eclipse
 **/.classpath
+**/.project
 # 忽略idea
 */.idea/**
 .idea/**
 # 忽略target
 **/target/**
 **/*.iml
+**/.settings/*
