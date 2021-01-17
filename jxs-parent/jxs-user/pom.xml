@@ -10,7 +10,7 @@
 		<version>1.0</version>
 	</parent>
 	<artifactId>jxs-user</artifactId>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>jxs-user Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
